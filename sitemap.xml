@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shahbazmughal.github.io/hugo/1/</loc>
+    <loc>https://shahbazmughal.github.io/hugo.github.io/1/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shahbazmughal.github.io/hugo/categories/</loc>
+    <loc>https://shahbazmughal.github.io/hugo.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://shahbazmughal.github.io/hugo/</loc>
+    <loc>https://shahbazmughal.github.io/hugo.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://shahbazmughal.github.io/hugo/tags/</loc>
+    <loc>https://shahbazmughal.github.io/hugo.github.io/tags/</loc>
   </url>
   
 </urlset>
